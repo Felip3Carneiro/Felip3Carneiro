@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me felipevilarcarneiro@outlook.com
-- 😄 Pronouns: e/ur
+- 😄 Pronouns: he/he
 - ⚡ Fun fact: 
 
 <!---
