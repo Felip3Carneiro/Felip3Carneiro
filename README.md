@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I'm tired
 
 ### 💻 Languages
- <h2>Python</h2>
- <h2>Html</h2>
- <h2>Css</h2>
- <h2>Java</h2>
+ <h2><img width="50" height="50" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/c4b8f112-a9cc-4eba-8097-7d55dc6361a3" />Python</h2>
+ <h2><img width="50" height="50" alt="732212" src="https://github.com/user-attachments/assets/f8a5f2aa-600c-41ac-b3ca-64a2a40eb876" />Html</h2>
+ <h2><img width="50" height="50" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/9ad0be3a-9ed6-4a22-a116-5ac8c88064fd" />Css</h2>
+ 
 <!---
 https://www.youtube.com/watch?v=z8UPAVTh2aE
  
