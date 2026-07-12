@@ -6,7 +6,10 @@
   <p>1. Discord -> felipe_carneiro</p>
   <p>2. Mail -> felipevilarcarneiro@outlook.com</p>
 - ⚡ Fun fact: I'm tired
-
+- 🧠 Languages:
+1.Brazilian Portuguese (Native)
+2.English (Advanced)
+ 
 ## 💻 Languages
  <h2><img width="50" height="50" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/c4b8f112-a9cc-4eba-8097-7d55dc6361a3" />Python</h2>
  <p>2 years of experience</p>
