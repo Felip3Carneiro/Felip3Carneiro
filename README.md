@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Felip3Carneiro
-- 👀 I'm working on building a robot controlled by an ESP32 via Bluetooth.
-- 🌱 I’m currently learning C++ with Arduino
+- 👀 I'm working on programming out FTC bot for this upcoming season
+- 🌱 I’m currently learning Java for FTC robots
 - 💞️ I’m looking to collaborate on codes
 - 📫 I'm always open on:
   <p>1. Discord -> felipe_carneiro</p>
